@@ -27,6 +27,7 @@ pH target P type teos, boric acid, (buffered)
 0.5 ml 0.082 M sulfuric acid solution
 Target ph 1.9
 
+Maybe/probably not (b/c trimethyl borate will just form boric acid)
 pH target P type teos, trimethyl borate, (buffered) 
 1ml teos
 1ml H20
