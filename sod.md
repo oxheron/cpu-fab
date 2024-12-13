@@ -1,9 +1,11 @@
 TEOS & water forms SiO2
-Forced to be mixed with ethanol
-Fluorine catalyst (maybe not) needed b/c it will solidify to quickly
+Forced to be mixed with ethanol b/c of polarity
+Fluorine catalyst not needed b/c it will solidify to quickly
 PH very relevant to shape and time as well (acidic so it forms mesh)
 Use heat to speed reaction up, get it to spinnable phase quickly
 Do reflux to heat to get to spinnable timeframe
+
+Time to store - Greater than a day in rt, week or more with ice
 
 Generally should be in range that is low speed so it has (some) shelf life
 
