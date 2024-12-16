@@ -20,7 +20,7 @@ If using immediately, use. Otherwise put on ice / store in as cold as possible
 Spin coating
 Apply a few drops, enough to cover precut silicon wafer (more specifications in mosfet.md on type of water)
 Spin at 3500-4000 rpm, enough for thin layer to form
-Heat at ? temperature for ? time on preheated hot plate
+Heat at 120-220C temperature for 15 time on preheated hot plate
 
 Tube furnace
 Should be done immediately after spin coating
@@ -36,3 +36,9 @@ HF etch (probably) (more details needed)
 
 Test
 4 point probe (more details needed)
+
+What is the dopant diffusion for TEOS based N and P type dopant formulas at different times and temperatures?
+
+Controls:
+Propreitary Chemicals?
+Their graphs?
